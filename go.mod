@@ -4,7 +4,7 @@ require (
 	cloud.google.com/go/profiler v0.4.2
 	github.com/AdaLogics/go-fuzz-headers v0.0.0-20230811130428-ced1acdcaa24
 	github.com/RoaringBitmap/roaring/v2 v2.19.0
-	github.com/andygrunwald/go-gerrit v1.0.0
+	github.com/andygrunwald/go-gerrit v1.2.0
 	github.com/bmatcuk/doublestar/v4 v4.10.0
 	github.com/dustin/go-humanize v1.0.1
 	github.com/felixge/fgprof v0.9.5
